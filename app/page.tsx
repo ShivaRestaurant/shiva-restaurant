@@ -312,17 +312,13 @@ export default function Home() {
                 Samstag: 13:00 – 21:00
                 <br />
                 Sonntag: 12:00 – 21:00
+                <br />
+<br />
+<strong>Telefon:</strong>
+<br />
+📞 0221 80132866 TEST
               </p>
-<p>
-  <strong>Telefon:</strong>
-  <br />
-  <a
-    href="tel:+4922180132866"
-    className="text-yellow-500 hover:text-yellow-400"
-  >
-    0221 80132866
-  </a>
-</p>
+
             </div>
           </div>
 
