@@ -302,6 +302,7 @@ export default function Home() {
                 50767 Köln
               <br />
 📞 0221 80132866
+</p>
               <p>
                 <strong>Öffnungszeiten:</strong>
                 <br />
