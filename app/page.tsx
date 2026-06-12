@@ -27,7 +27,7 @@ export default function Home() {
 <p className="mt-2 text-gray-400">
   📍 Ransbacher Weg 13, 50767 Köln
 </p>
-        </p>
+
 
         <div className="mt-10 flex flex-col md:flex-row gap-4">
       <a
