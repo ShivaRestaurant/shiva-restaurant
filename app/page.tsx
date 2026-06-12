@@ -313,7 +313,16 @@ export default function Home() {
                 <br />
                 Sonntag: 12:00 – 21:00
               </p>
-
+<p>
+  <strong>Telefon:</strong>
+  <br />
+  <a
+    href="tel:+4922180132866"
+    className="text-yellow-500 hover:text-yellow-400"
+  >
+    0221 80132866
+  </a>
+</p>
             </div>
           </div>
 
