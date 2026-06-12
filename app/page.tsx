@@ -58,11 +58,12 @@ export default function Home() {
 >
   Jetzt per WhatsApp reservieren
 </a>
-
-          <button className="border border-yellow-500 px-8 py-4 rounded-2xl hover:bg-yellow-500 hover:text-black transition">
-            Speisekarte
-          </button>
-        </div>
+<a
+  href="#speisekarte"
+  className="border border-yellow-500 px-8 py-4 rounded-2xl hover:bg-yellow-500 hover:text-black transition"
+>
+  Speisekarte
+</a>
       </section>
 
       {/* ÜBER UNS */}
