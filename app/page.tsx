@@ -304,9 +304,8 @@ export default function Home() {
 📞 0221 80132866
 </p>
               <p>
-<strong>ÖFFNUNGSZEITEN TEST 123</strong>
+<strong>Öffnungszeiten:</strong>
 <br />
-📞 0221 80132866 
                 <br />
                 Montag: Ruhetag
                 <br />
@@ -319,7 +318,7 @@ export default function Home() {
 <br />
 <strong>Telefon:</strong>
 <br />
-📞 0221 80132866 TEST
+📞 0221 80132866
               </p>
 
             </div>
