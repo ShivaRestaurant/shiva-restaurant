@@ -1,6 +1,27 @@
 export default function Home() {
   return (
     <div className="min-h-screen bg-black text-white">
+      <nav className="fixed top-0 left-0 w-full bg-black/90 backdrop-blur border-b border-yellow-700 z-50">
+  <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+    <h1 className="text-yellow-500 font-bold text-xl">
+      SHIVA RESTAURANT
+    </h1>
+
+    <div className="hidden md:flex gap-6">
+      <a href="#ueber-uns" className="hover:text-yellow-500">
+        Über Uns
+      </a>
+
+      <a href="#speisekarte" className="hover:text-yellow-500">
+        Speisekarte
+      </a>
+
+      <a href="#kontakt" className="hover:text-yellow-500">
+        Kontakt
+      </a>
+    </div>
+  </div>
+</nav>
       {/* HERO */}
       <section className="h-screen flex flex-col items-center justify-center text-center px-6">
         
