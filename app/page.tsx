@@ -69,6 +69,12 @@ export default function Home() {
   📸 Instagram
 </a>
 <a
+  href="#feiern"
+  className="border border-blue-500 px-8 py-4 rounded-2xl font-bold hover:bg-blue-500 hover:text-white transition"
+>
+  🎉 Feiern & Events
+</a>
+<a
   href="#speisekarte"
   className="border border-yellow-500 px-8 py-4 rounded-2xl hover:bg-yellow-500 hover:text-black transition"
 >
