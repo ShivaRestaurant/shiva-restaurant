@@ -67,7 +67,7 @@ export default function Home() {
       </section>
 
       {/* ÜBER UNS */}
-      <section className="bg-zinc-950 py-24 px-6">
+<section id="ueber-uns" className="bg-zinc-950 py-24 px-6">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16 items-center">
           
           <div>
