@@ -216,9 +216,9 @@ export default function Home() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16">
 
           <div>
-            <section id="kontakt" className="py-24 px-6 bg-black">
-              Kontakt
-            </h2>
+<h2 className="text-4xl font-bold text-yellow-500 mb-8">
+  Kontakt
+</h2>
 
             <div className="space-y-6 text-gray-300 text-lg">
 
