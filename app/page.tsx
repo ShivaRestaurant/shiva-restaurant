@@ -250,6 +250,13 @@ export default function Home() {
     <img src="/essen bilder (8).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
 
     <img src="/essen bilder (9).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+    <img
+  src="/essen bilder (10).png"
+  className="rounded-2xl shadow-lg hover:scale-105 transition duration-300"
+/><img
+  src="/essen bilder (11).png"
+  className="rounded-2xl shadow-lg hover:scale-105 transition duration-300"
+/>
 
   </div>
 </section>
