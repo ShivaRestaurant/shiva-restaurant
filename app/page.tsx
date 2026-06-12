@@ -224,7 +224,35 @@ export default function Home() {
 
         </div>
       </section>
+{/* GALERIE */}
 
+<section className="py-20 px-6 bg-black">
+  <h2 className="text-4xl font-bold text-center text-yellow-500 mb-12">
+    Unsere Spezialitäten
+  </h2>
+
+  <div className="grid md:grid-cols-3 gap-6">
+
+    <img src="/essen bilder (1).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (2).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (3).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (4).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (5).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (6).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (7).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (8).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+    <img src="/essen bilder (9).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+
+  </div>
+</section>
       {/* FOOTER */}
       <footer className="border-t border-yellow-700 py-10 text-center text-gray-500">
         <p className="text-yellow-500 font-bold tracking-[0.3em] mb-2">
