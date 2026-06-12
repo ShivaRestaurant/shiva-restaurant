@@ -216,7 +216,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-16">
 
           <div>
-            <section id="kontakt" className="py-24 px-6 bg-black"></section>
+            <section id="kontakt" className="py-24 px-6 bg-black">
               Kontakt
             </h2>
 
