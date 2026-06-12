@@ -14,14 +14,19 @@ export default function Home() {
           SHIVA
         </h1>
 
-        <p className="mt-6 text-xl md:text-2xl text-gray-300">
-          Indische & Mediterrane Küche
-        </p>
+<p className="mt-6 text-xl md:text-2xl text-yellow-500 font-semibold">
+  Indische & Mediterrane Küche in Köln
+</p>
 
-        <p className="mt-4 text-gray-400 max-w-2xl leading-relaxed">
-          Willkommen im Shiva Restaurant in Köln.
-          Authentische indische Spezialitäten und mediterrane Eleganz
-          seit 2012.
+<p className="mt-4 text-gray-300 max-w-3xl leading-relaxed text-lg">
+  Genießen Sie authentische indische Spezialitäten,
+  mediterrane Klassiker und frisch zubereitete Gerichte
+  in gemütlicher Atmosphäre.
+</p>
+
+<p className="mt-2 text-gray-400">
+  📍 Ransbacher Weg 13, 50767 Köln
+</p>
         </p>
 
         <div className="mt-10 flex flex-col md:flex-row gap-4">
