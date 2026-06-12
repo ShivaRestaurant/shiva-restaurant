@@ -305,16 +305,112 @@ export default function Home() {
   </div>
 </div>   
 
-    <img src="/essen bilder (5).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+    <div className="bg-zinc-900 rounded-2xl overflow-hidden shadow-lg">
+  <img
+    src="/essen bilder (5).png"
+    className="w-full h-64 object-cover hover:scale-105 transition duration-300"
+  />
+  <div className="p-4">
+    <h3 className="text-xl font-bold text-yellow-500">
+      Mixed Pakora
+    </h3>
+    <p className="text-gray-400">
+      Knusprig frittiertes Gemüse mit Süß-Sauer-Soße
+    </p>
+    <p className="text-white font-bold mt-2">
+      7,90 €
+    </p>
+  </div>
+</div>
 
-    <img src="/essen bilder (6).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+<div className="bg-zinc-900 rounded-2xl overflow-hidden shadow-lg">
+  <img
+    src="/essen bilder (6).png"
+    className="w-full h-64 object-cover hover:scale-105 transition duration-300"
+  />
+  <div className="p-4">
+    <h3 className="text-xl font-bold text-yellow-500">
+      Chicken Wings Hot
+    </h3>
+    <p className="text-gray-400">
+      Mit Pommes, frischem Salat & Sweet-Chili-Soße
+    </p>
+    <p className="text-white font-bold mt-2">
+      10,90 €
+    </p>
+  </div>
+</div>   
 
-    <img src="/essen bilder (7).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+<div className="bg-zinc-900 rounded-2xl overflow-hidden shadow-lg">
+  <img
+    src="/essen bilder (7).png"
+    className="w-full h-64 object-cover hover:scale-105 transition duration-300"
+  />
+  <div className="p-4">
+    <h3 className="text-xl font-bold text-yellow-500">
+      Pasta Alla Panna
+    </h3>
+    <p className="text-gray-400">
+      Cremige Sahnesoße mit Putenschinken (Halal)
+    </p>
+    <p className="text-white font-bold mt-2">
+      11,90 €
+    </p>
+  </div>
+</div>
 
-    <img src="/essen bilder (8).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+<div className="bg-zinc-900 rounded-2xl overflow-hidden shadow-lg">
+  <img
+    src="/essen bilder (8).png"
+    className="w-full h-64 object-cover hover:scale-105 transition duration-300"
+  />
+  <div className="p-4">
+    <h3 className="text-xl font-bold text-yellow-500">
+      Crispy Chicken Burger
+    </h3>
+    <p className="text-gray-400">
+      135 g knuspriges Hähnchenfilet im Burger Bun
+    </p>
+    <p className="text-white font-bold mt-2">
+      9,50 €
+    </p>
+  </div>
+</div>    
 
-    <img src="/essen bilder (9).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
-    <img src="/essen bilder (10).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+<div className="bg-zinc-900 rounded-2xl overflow-hidden shadow-lg">
+  <img
+    src="/essen bilder (9).png"
+    className="w-full h-64 object-cover hover:scale-105 transition duration-300"
+  />
+  <div className="p-4">
+    <h3 className="text-xl font-bold text-yellow-500">
+      Pizza Vegetariana
+    </h3>
+    <p className="text-gray-400">
+      Mit frischem Gemüse nach italienischer Art
+    </p>
+    <p className="text-white font-bold mt-2">
+      ab 12,00 €
+    </p>
+  </div>
+</div>
+<div className="bg-zinc-900 rounded-2xl overflow-hidden shadow-lg">
+  <img
+    src="/essen bilder (10).png"
+    className="w-full h-64 object-cover hover:scale-105 transition duration-300"
+  />
+  <div className="p-4">
+    <h3 className="text-xl font-bold text-yellow-500">
+      Butter Chicken
+    </h3>
+    <p className="text-gray-400">
+      Traditionelles indisches Curry – wahlweise mit Hähnchen oder Lamm
+    </p>
+    <p className="text-white font-bold mt-2">
+      ab 13,90 €
+    </p>
+  </div>
+</div>
 
 
   </div>
