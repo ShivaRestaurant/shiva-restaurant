@@ -61,6 +61,14 @@ export default function Home() {
   Jetzt per WhatsApp reservieren
 </a>
 <a
+  href="https://www.instagram.com/shiva_restaurant_cgn/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="border border-pink-500 px-8 py-4 rounded-2xl font-bold hover:bg-pink-500 hover:text-white transition"
+>
+  📸 Instagram
+</a>
+<a
   href="#speisekarte"
   className="border border-yellow-500 px-8 py-4 rounded-2xl hover:bg-yellow-500 hover:text-black transition"
 >
