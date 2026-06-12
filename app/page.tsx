@@ -304,7 +304,9 @@ export default function Home() {
 📞 0221 80132866
 </p>
               <p>
-                <strong>Öffnungszeiten:</strong>
+               <strong>Öffnungszeiten:</strong>
+<br />
+📞 0221 80132866 
                 <br />
                 Montag: Ruhetag
                 <br />
