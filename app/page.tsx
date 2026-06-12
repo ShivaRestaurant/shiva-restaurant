@@ -318,7 +318,6 @@ export default function Home() {
 <br />
 <strong>Telefon:</strong>
 <br />
-📞 0221 80132866
               </p>
 
             </div>
