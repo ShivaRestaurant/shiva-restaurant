@@ -99,7 +99,7 @@ export default function Home() {
       </section>
 
       {/* SPEISEKARTE */}
-      <section className="py-24 px-6 bg-black">
+      <section id="speisekarte" className="py-24 px-6 bg-black">
         <div className="max-w-6xl mx-auto text-center">
 
           <h2 className="text-4xl font-bold text-yellow-500 mb-16">
