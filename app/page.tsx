@@ -316,7 +316,6 @@ export default function Home() {
                 Sonntag: 12:00 – 21:00
                 <br />
 <br />
-<strong>Telefon:</strong>
 <br />
               </p>
 
