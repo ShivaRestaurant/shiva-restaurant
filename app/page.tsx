@@ -23,7 +23,7 @@ export default function Home() {
   </div>
 </nav>
       {/* HERO */}
-      <section className="h-screen flex flex-col items-center justify-center text-center px-6">
+      <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 pt-20">
         
         <img
           src="/logo.png"
@@ -34,7 +34,9 @@ export default function Home() {
         <h1 className="text-5xl md:text-7xl font-bold text-yellow-500 tracking-[0.3em]">
           SHIVA
         </h1>
-
+<p className="text-yellow-400 font-semibold tracking-wide mb-4">
+  ⭐ Authentische Indische & Mediterrane Spezialitäten
+</p>
 <p className="mt-6 text-xl md:text-2xl text-yellow-500 font-semibold">
   Indische & Mediterrane Küche in Köln
 </p>
