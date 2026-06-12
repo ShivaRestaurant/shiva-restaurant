@@ -114,7 +114,71 @@ export default function Home() {
           </div>
         </div>
       </section>
+<section id="feiern" className="bg-black py-24 px-6 border-t border-yellow-700">
 
+  <div className="max-w-5xl mx-auto text-center">
+
+    <h2 className="text-4xl font-bold text-yellow-500 mb-8">
+      Private Feiern & Gesellschaften
+    </h2>
+
+    <p className="text-gray-300 text-lg leading-relaxed mb-8">
+      Ob Geburtstag, Hochzeit, Verlobung, Taufe,
+      Trauerfeier, Firmenveranstaltung oder Familienfest –
+      im Shiva Restaurant bieten wir den passenden Rahmen
+      für Ihre Feier.
+    </p>
+
+    <p className="text-gray-400 leading-relaxed mb-8">
+      Für Gesellschaften bis zu 80 Personen erstellen wir
+      individuelle Buffets und Menüs mit indischen und
+      mediterranen Spezialitäten.
+    </p>
+
+    <div className="grid md:grid-cols-3 gap-4 mb-10">
+
+      <div className="bg-zinc-900 p-4 rounded-xl">
+        🎂 Geburtstage
+      </div>
+
+      <div className="bg-zinc-900 p-4 rounded-xl">
+        💍 Hochzeiten
+      </div>
+
+      <div className="bg-zinc-900 p-4 rounded-xl">
+        🕊️ Trauerfeiern
+      </div>
+
+      <div className="bg-zinc-900 p-4 rounded-xl">
+        🎉 Verlobungen & Taufen
+      </div>
+
+      <div className="bg-zinc-900 p-4 rounded-xl">
+        🏢 Firmenfeiern
+      </div>
+
+      <div className="bg-zinc-900 p-4 rounded-xl">
+        👨‍👩‍👧 Familienfeste
+      </div>
+
+    </div>
+
+    <p className="text-yellow-500 font-semibold mb-8">
+      Buffets nach Wunsch • Indische Spezialitäten • Mediterrane Küche • Persönlicher Service
+    </p>
+
+    <a
+      href="https://wa.me/4915217439734"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="bg-green-500 text-white px-8 py-4 rounded-2xl font-bold hover:bg-green-400 transition"
+    >
+      Veranstaltung anfragen
+    </a>
+
+  </div>
+
+</section>
       {/* SPEISEKARTE */}
       <section id="speisekarte" className="py-24 px-6 bg-black">
         <div className="max-w-6xl mx-auto text-center">
