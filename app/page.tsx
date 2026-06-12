@@ -300,8 +300,8 @@ export default function Home() {
                 Ransbacher Weg 13
                 <br />
                 50767 Köln
-              </p>
-
+              <br />
+📞 0221 80132866
               <p>
                 <strong>Öffnungszeiten:</strong>
                 <br />
