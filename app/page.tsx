@@ -74,6 +74,7 @@ export default function Home() {
 >
   Speisekarte
 </a>
+</div>
       </section>
 
       {/* ÜBER UNS */}
