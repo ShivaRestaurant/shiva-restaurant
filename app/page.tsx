@@ -251,7 +251,23 @@ export default function Home() {
   </div>
 </div>
 
-    <img src="/essen bilder (2).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
+<div className="bg-zinc-900 rounded-2xl overflow-hidden shadow-lg">
+  <img
+    src="/essen bilder (2).png"
+    className="w-full h-64 object-cover hover:scale-105 transition duration-300"
+  />
+  <div className="p-4">
+    <h3 className="text-xl font-bold text-yellow-500">
+      Chicken Nuggets
+    </h3>
+    <p className="text-gray-400">
+      Mit Pommes, Salat & Süß-Sauer-Soße
+    </p>
+    <p className="text-white font-bold mt-2">
+      10,90 €
+    </p>
+  </div>
+</div>    
 
     <img src="/essen bilder (3).png" className="rounded-2xl shadow-lg hover:scale-105 transition duration-300" />
 
